@@ -1,0 +1,36 @@
+
+.navbar-brand {
+	padding: 5px;
+}
+nav img{
+	width: 95px;
+}
+ul {
+	text-decoration: none;
+} 
+.signup-img img{
+
+}
+
+label {
+	color: white;
+}
+.logo img{
+	width: 700px;
+}
+.container-img {
+	width: 100%;
+
+}
+.btn-right {
+	float: right;
+}
+.nav-right {
+	float: right;
+}
+.col-form-label{
+	color:  #343a40;
+}
+.form-terms {
+	margin-left: 23px;
+}
